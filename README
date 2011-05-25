@@ -1,0 +1,3 @@
+This is a module featuring a simple quick&dirty example of a page notifier "growl-like".
+Each time, the page is hit, a floating note (the position of the note is configurable) appear.
+
